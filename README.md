@@ -26,3 +26,7 @@ React Router: For navigating between different pages.
 Tailwind CSS: A utility-first CSS framework for fast and responsive design.
 Firebase Hosting: A fast and secure hosting solution for web apps.
 Fetch API: For fetching coffee menu data from the external API
+
+Deployment
+The app is deployed and hosted on Firebase Hosting. You can access the live version here:
+👉 Mr. Beans App
