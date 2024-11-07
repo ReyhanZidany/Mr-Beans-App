@@ -1,32 +1,28 @@
-Mr. Beans App ☕️
-Welcome to the Mr. Beans App! This web application allows users to explore various coffee options, add them to their shopping cart, and enjoy a seamless coffee shopping experience. Whether you're a casual coffee lover or a serious connoisseur, this app offers a great way to discover new brews!
+# Mr. Beans Coffee Shop
 
-About the Application
-Mr. Beans App is built with React and allows users to browse a variety of coffee products, add items to their cart, and proceed with purchases. Designed with a modern and responsive layout, it ensures a great experience on both desktop and mobile devices.
+Welcome to **Mr. Beans**, a coffee shop web application where you can explore a variety of coffee options, add them to your cart, and place an order for delivery. The app provides a sleek and modern user interface, showcasing various types of coffee, along with relevant details like name, price, and image.
 
-The coffee menu data is fetched dynamically from an external Fake Coffee API, so the app always displays the latest coffee options. The app is hosted on Firebase, making it easily accessible to users globally.
+## Features
 
-Access the live version here:
-👉 Mr. Beans App
+- Browse a variety of coffee items.
+- View detailed information about each coffee.
+- Add items to your cart and proceed to checkout.
+- Simple, clean, and responsive UI for all screen sizes.
+- API integration to fetch coffee data dynamically.
+  
+## Technologies Used
 
-Features
-Coffee Menu: Browse through a variety of coffee options with images, descriptions, and prices.
-Shopping Cart: Add coffee products to your cart and check out your selections.
-Responsive Design: Optimized for both desktop and mobile devices.
-Firebase Hosting: The app is live and accessible globally through Firebase Hosting.
-Data Source - Fake Coffee API
-The coffee menu data is fetched from a third-party API called Fake Coffee API, which provides detailed information on different coffee types, including names, descriptions, prices, and images.
+- **React.js** for the frontend
+- **Firebase** for deployment
+- **Fake Coffee API** to fetch coffee data
 
-API Endpoint:
-https://fake-coffee-api.vercel.app/api
+## API Integration
 
-Technologies Used
-React: A JavaScript library for building user interfaces.
-React Router: For navigating between different pages.
-Tailwind CSS: A utility-first CSS framework for fast and responsive design.
-Firebase Hosting: A fast and secure hosting solution for web apps.
-Fetch API: For fetching coffee menu data from the external API
+The app fetches coffee data from the **Fake Coffee API**, which provides a list of coffee items with information such as name, description, price, and image. The API endpoint used is:
 
-Deployment
-The app is deployed and hosted on Firebase Hosting. You can access the live version here:
-👉 Mr. Beans App
+[https://fake-coffee-api.vercel.app/api](https://fake-coffee-api.vercel.app/api)
+
+## Deployment
+
+You can view the live version of the application here: 
+https://mr-beans-b28f8.web.app
