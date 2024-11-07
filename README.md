@@ -1,8 +1,6 @@
-# Mr. Beans Coffee Shop
+![Mr. Beans Logo](./src/assets/mrbeans.png)
 
 Welcome to **Mr. Beans**, a coffee shop web application where you can explore a variety of coffee options, add them to your cart, and place an order for delivery. The app provides a sleek and modern user interface, showcasing various types of coffee, along with relevant details like name, price, and image.
-
-![Mr. Beans Logo](./src/assets/mrbeans.png)
 
 ## Features
 
